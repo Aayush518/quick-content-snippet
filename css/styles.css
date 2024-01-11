@@ -1,0 +1,30 @@
+/* Your custom CSS for the admin interface goes here */
+
+/* Styles for the "Insert Snippet" button */
+.mce-i-qcs_button {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    padding: 6px 12px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 3px;
+}
+
+/* Styles for the dropdown that appears when selecting a snippet */
+.mce-listbox {
+    width: 200px;
+}
+
+/* Styles for the listbox items */
+.mce-listbox-item {
+    padding: 5px;
+    font-size: 14px;
+}
+
+/* Highlight when hovering over listbox items */
+.mce-listbox-item:hover {
+    background-color: #f1f1f1;
+    cursor: pointer;
+}
