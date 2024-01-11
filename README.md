@@ -37,7 +37,7 @@ You can also manually insert snippets using the `[qcs_snippet id="your_snippet_i
 ![Insert Snippet Button](assets/screenshot-2.png)
 *Insert snippets directly in the post/page editor.*
 
-## Frequently Asked Questions
+## Asked Questions
 
 ### Can I customize the snippet appearance?
 
